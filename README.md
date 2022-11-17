@@ -39,6 +39,9 @@
 * npm i 
 * npm run start 
 
+## Link to Heroku
+* https://hannas-text-editor.herokuapp.com/
+
 ## Screenshot of Application
 ![Screen Shot 2022-11-13 at 8 29 02 PM](https://user-images.githubusercontent.com/106893601/201575715-cdab6a45-d5af-4ac7-b16d-786a01c23d24.png)
 
